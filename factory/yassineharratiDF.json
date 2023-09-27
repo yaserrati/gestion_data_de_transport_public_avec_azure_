@@ -1,0 +1,9 @@
+{
+	"name": "yassineharratiDF",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26188695-0155-40e6-8954-ac5675432832",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
